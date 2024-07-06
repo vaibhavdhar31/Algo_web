@@ -19,7 +19,7 @@ tsc --watch
 ``` 
 *Note*: It will auto compile from TypeScript into JavaScript everytime you save the files.
 
-If you can't run the project, you can visit here: <https://tpspace.github.io/Algorithms-Visualizer/> to see the demo.
+If you can't run the project, you can visit here: <https://algoweb3101.netlify.app/> to see the demo.
 
 ## Features
 ### Sorting Algorithms
@@ -39,10 +39,6 @@ If you can't run the project, you can visit here: <https://tpspace.github.io/Alg
 *Path Finding*
 
 ## Contacts
-If you have any questions regarding the projects, you can contact any one of us:
-+ Pham Vu Quang ([quang-pham-1109](https://github.com/quang-pham-1109)): phvuquang@gmail.com
-+ Nguyen Manh Viet Khoi ([tp-space](https://github.com/tpSpace)): nmvkhoivcl@gmail.com
-+ Le Tuan Phuc ([Darkiee12](https://github.com/Darkiee12)): kizluxury0506@gmail.com
-+ Do Anh Quan ([David-Do Maker](https://github.com/DavidDo-maker)): davidquan247@gmail.com
+If you have any questions regarding the projects, you can contact me:
++ Vaibhav Dhar Dubey ((https://github.com/vaibhavdhar31)): dhardubey11@gmail.com
 
-Fellow IUers are very welcome!
