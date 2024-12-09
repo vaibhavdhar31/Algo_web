@@ -27,5 +27,5 @@ For live demo <https://algoweb3101.netlify.app/>
 
 ## Contacts
 If you have any questions regarding the projects, you can contact me:
-+ Vaibhav Dhar Dubey ((https://github.com/vaibhavdhar31)): dhardubey11@gmail.com
++ Vaibhav Dhar Dubey (https://github.com/vaibhavdhar31): dhardubey11@gmail.com
 
