@@ -1,8 +1,4 @@
 // Project: Algorithms and Data Structures
-// Author: nmvkhoi
-
-// ts-check
-// constants
 
 import getAdjacencyList from '../code/pathFindingAlgorithms/utility.js';
 import {getEndNode, getSourceNode, getNodeXCoordinates, getNodeYCoordinates} from "./pathFindingAlgorithms/utility.js";
